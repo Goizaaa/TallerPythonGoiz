@@ -1,0 +1,30 @@
+{
+  "personas": [
+    {
+      "Id": 454324,
+      "Nombre": "federico pelichE",
+      "Edad": 52,
+      "RFC": "Puebla"
+    },{
+       "Id": 478904,
+      "Nombre": "Jose alfonzo",
+      "Edad": 15,
+      "RFC": "RYDIHBOIN"
+    },{
+       "Id": 165469,
+      "Nombre": "federico peliche",
+      "Edad": 33,
+      "RFC": "OIBIYFUYIB8F6"
+    },
+    {
+       "Id": 977874,
+      "Nombre": "federico peliche",
+      "Edad": 54,
+      "RFC": "POIJOUBGTBC"
+    },{
+     "Id": 321514,
+      "Nombre": "federico peliche",
+      "Edad": 44,
+      "RFC": "PPOJMLMIYT"
+    }]
+    }
